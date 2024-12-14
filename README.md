@@ -91,3 +91,36 @@ Skills: Work with NLP techniques and RNN architectures like LSTM or GRU.
 Dataset: IMDB movie reviews dataset.
 
 **Other than the aforementioned ideas domain members are free to come up with their own projects which they had been doing or want to do in future.**
+
+
+
+
+
+
+
+
+**WEB DEV:**
+
+
+**1.Personal Portfolio**
+
+Description: Make your own portfolio without any copy paste must have a good ui, it has to be a complete portfolio website
+
+
+**2.Blog post website**
+
+Description: Blog posting website with a backend
+
+
+**3.E-com**
+
+Description: E-com website that will contain everything that an e-com site need to have (example : wishlist, payment gateway etc) 
+
+
+
+
+Requirements : Must be hosted (on github pages or vercel), have a good ui, responsive, js to be used (preffered React), no pull stack dev will be accepted (no copy pasting of code or youtube)
+Note this is not a grp work and the deadline is same as mentioned above.
+
+
+
