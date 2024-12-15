@@ -1,6 +1,6 @@
 # Projects(Tech Domains)
 
-**Individual/Group**
+**Individual/Group(2 members max.)**
 
 **Deadline:18 Jan**
 
