@@ -1,4 +1,4 @@
-# Titanic Survival Prediction 🛳️
+# Titanic Survival Prediction  By Shashwat And Suvrakanta🛳️
 
 Welcome to the **Titanic Survival Prediction** project! 🎉 This project leverages machine learning algorithms to predict whether a passenger survived the Titanic disaster based on various features.
 
